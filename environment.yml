@@ -11,3 +11,8 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - param
+  - panel
+  - pandas
+  - hvplot
+  - scipy
